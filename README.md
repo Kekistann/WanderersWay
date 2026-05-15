@@ -40,7 +40,7 @@ A Community Shaders based Skyrim modlist focused on Exploration, Roleplay, Playe
    - Once launched, install ALL Creation Club addons. Do not ALT+Tab during this process.
    - If you have issues with the Creation Club plugins missing, I highly recommend a clean install of Skyrim. Uninstall Skyrim through Steam and completely delete the Skyrim Steam folder.
 
-3. **PageFile & Memory Allocation**:
+3. **PageFile & Virtual Memory**:
    Larger modlists tend to require more memory. Running out of memory will result in possible crashes or other potential issues. I highly recommend to do this step.
 
 To set up a Pagefile:
