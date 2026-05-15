@@ -2,6 +2,8 @@
 A Community Shaders based Skyrim modlist focused on Exploration, Roleplay, Player Choice and a Dynamic World.
 ![Description](Resources/ww_title.png)
 
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/163526) | [Changelog](https://github.com/Kekistann/WanderersWay/blob/main/changelog.md) | [Load Order](https://loadorderlibrary.com/lists/wanderer-s-way-2)
+
 
 **Requirements**:
 - Skyrim version 1.6.1170 (latest Steam update).
