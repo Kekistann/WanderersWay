@@ -15,12 +15,15 @@ A Community Shaders based Skyrim modlist focused on Exploration, Roleplay, Playe
 - **Download Size**: ~x.
 - **Install Size**: ~x.
 
-| Component | Recommended (1080p) | My Specs (1440p) |
-|-----------|----------------------|-----------------|
-| CPU       | i7 11700k            | i9 13900KF      |
-| GPU       | RTX 3080             | RTX 4080        |
-| RAM       | 32GB                 | 64GB            |
-| Storage   | SATA SSD             | NVMe SSD        |
+| Component | Minimum (1080p Native 60FPS)  | Recommended (1440p Native 60FPS) |
+|-----------|-------------------------------|----------------------------------|
+| CPU       | i5-12600k / AMD Ryzen 5 5600X | i5-13600K / AMD Ryzen 5 7600X    |
+| GPU       | RTX 3070 / AMD RX 6800 XT     | RTX 4070 / AMD RX 7800 XT        |
+| RAM       | 16GB DDR4                     | 32GB DDR4                        |
+| Storage   | SATA SSD                      | NVMe SSD                         |
+
+The specs above reflect native performance. I highly recommend enabling Upscaling at a minimum, with Frame Generation or AMD FSR 3.1 enabled if your hardware supports it. Both are provided by Community Shaders and are pre-configured in the list. Together, they can effectively double your framerate with minimal visual impact.
+
 
 ---
 
