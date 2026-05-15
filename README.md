@@ -30,39 +30,52 @@ The specs above reflect native performance. I highly recommend enabling Upscalin
 ## Installation
 
 ### Pre-Installation
-1. **Install Dependencies**:
+1. **Dependencies**:
    - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
    - [.NET Runtime 8.x.x Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.15-windows-x64-installer).
    - [.NET Runtime 6.0.0 Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
    - If Visual C++ is installed, use the `Repair` option.
 
 2. **Steam Setup**:
+
+   Wanderer's Way will only work with the Steam version of Skyrim. Additionally, it will only work with English versions of the game.
+   
+   - Install Skyrim into a location that is not Program Files.
+   - Right click Skyrim in Steam, click `Properties`, disable `Enable the Steam overlay while in-game`.
    - Disable [auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-   - Fresh Install Skyrim AE.
-   - Run Skyrim AE once through Steam.
-   - Once launched, install ALL Creation Club addons. Do not ALT+Tab during this process.
-   - If you have issues with the Creation Club plugins missing, I highly recommend a clean install of Skyrim. Uninstall Skyrim through Steam and completely delete the Skyrim Steam folder.
+   - Launch the game from Steam, and ignore any pop-ups about settings in the launcher.
+   - Once at the Title Screen, you should receive a prompt to download all CC content. Accept it. Do not ALT+Tab during this process.
+   - When complete, close Skyrim.
+  
+If you have not bought the Anniversary Edition DLC before, please do so. The list will not install without it. 
 
-3. **PageFile & Virtual Memory**:
-   Larger modlists tend to require more memory. Running out of memory will result in possible crashes or other potential issues. I highly recommend to do this step.
+> [!WARNING]
+> You should not verify file integrity through Steam. This will cause the wrong version of the Rare Curios creation to download, causing the installation to fail.
+  
+   A non-English version of the game will cause problems later. To verify that your game is in English, please perform the following steps:
+   - Right click on Skyrim in Steam
+   - Click `Properties`
+   - Under `General`, set `Language` to `English`
 
-To set up a Pagefile:
+> [!WARNING]
+> If your Steam library is in Program Files, refer to [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to move it elsewhere. Do not install Skyrim to default Windows folders (Desktop, Documents, Downloads, etc.) as this will cause issues.
 
-   - Press Win Key + R
-   - Type sysdm.cpl ,3 and hit ENTER
-   - Navigate to Performance and click the box Settings
-   - Click the Advanced tab at the top
-   - Under Virtual Memory click the box Change
-   - Uncheck Automatically Manage if it is checked
-   - Select your disk drive, ideally your fastest solid state drive
-   - Click Custom Size:
-   - In the box next to Initial Size (MB), type 40960
-   - In the box next to Maximum Size (MB), type 40960
-   - Click Set.
-   - Click OK.
-   - Click Apply.
-   - Click OK.
-   - Restart your PC.
+> [!CAUTION]
+> There is no workaround for a pirated copy of Skyrim or pirated Creation Club content. Don't bother.
+  
+3. **PageFile and Crash Prevention**:
+
+   Larger modlists tend to require a lot of memory. If there isn't enough memory, the game might fail to allocate more and cause a memory-related crash. You can fix this with a pagefile, which essentially acts as virtual memory. To prevent memory crashes, perform the following steps to increase your pagefile size:
+     
+   - Press `Win + R` and enter `sysdm.cpl ,3`
+   - Under the `Advanced` tab, press `Settings` under the `Performance` section
+   - In the window that pops up, go to the `Advanced` tab and press `Change...` under the `Virtual Memory` section
+   - Disable `Automatically manage paging file size for all drives`
+   - Select your disk drive, ideally your fasted SSD
+   - Under the `Custom Size:` option, change `Initial Size (MB)` and `Maximum Size (MB)` to `20480`
+   - Click `Set`
+   - Click `OK`, then `Apply` and `OK`
+   - Restart your computer
 
 ### Wabbajack Installation
 1. **Install Wabbajack**:
@@ -77,7 +90,7 @@ To set up a Pagefile:
    - Nexus Premium automates downloads; without it, manually click “Slow Download” for each mod.
   
 ---
-## Playing the Game
+## Playing Wanderer's Way
 - Launch Skyrim SE through Mod Organizer 2 (MO2) in the Wanderer's Way folder.
 - After character creation, a notification will pop-up stating Wanderer's Way is configuring. Stand still and wait for configuration to complete. Upon completion, you will receive a second notification stating you're good to go.
 - Wanderer's Way is pre-configured on Adept difficulty and intended to be played this way. Increasing or decreasing the difficulty slider will heavily alter your experience.
