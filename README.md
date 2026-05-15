@@ -1,5 +1,6 @@
 # Wanderer's Way
 A Community Shaders based Skyrim modlist focused on Exploration, Roleplay, Player Choice and a Dynamic World.
+![Description](Resources/ww_title.png)
 
 
 **Requirements**:
