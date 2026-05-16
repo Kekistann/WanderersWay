@@ -13,6 +13,8 @@ Combat is crucial for many people. Thanks to creations like Blade & Blunt, Stanc
 
 "Muh Immershun". Although a cliche word these days, immersion is key in any list. In Wanderer's Way, your reputation is rooted in your race but ultimately defined by your actions. Overhauled and expanded quests offer varied paths forward, with outcomes that change based on how you approach them. Your choices go beyond reputation and quest outcomes, they reshape the world around you as well. The world is meant to feel alive and responsive. I don't want to spoil too much, so you'll have to experience this part of the game for yourself. 😉 
 
+Wanderer's Way is meant to be played with Survival Mode on, but you can turn it off in the game settings if you so choose. I do recommend giving it a try if you haven't before.
+
 This is the heart of Wanderer's Way. If it sounds like your bottle of skooma, read on and give it a try.
 
 ## Requirements
