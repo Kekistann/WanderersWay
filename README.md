@@ -5,7 +5,17 @@ A Community Shaders based Skyrim modlist focused on Exploration, Roleplay, Playe
 **Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/163526) | [Changelog](https://github.com/Kekistann/WanderersWay/blob/main/changelog.md) | [Load Order](https://loadorderlibrary.com/lists/wanderer-s-way-2)
 
 
-**Requirements**:
+Wanderer's Way can be described as "Skyrim with a fresh coat of paint", featuring over 1700 mods that have been curated and hand patched to work together. My intentions are to make sure that you, the player, can return to Tamriel and have it feel familiar. I’ve done my best not to stray far from the vibe that Bethesda gave us in 2011. Keeping this in mind, many of us crave that first love of being lost in exploration. Whether you’ve played 2000 hours of Skyrim or 20, Wanderer’s Way should feel like a familiar, fresh, dynamic world with its overhauled visuals and player driven, ever-changing environments.
+
+Visuals are carried by Community Shaders and it's official add-ons. Lux CS and NAT.CS create believable lighting which looks natural but still captures a touch of fantasy. Featuring a near total PBR overhaul, material will react to light similarly to what you see in modern games. Vanilla AIO PBR serves as a base-line, retaining Skyrim's original art-style but enhancing it with Parallax and PBR material.
+
+Combat is crucial for many people. Thanks to creations like Blade & Blunt, Stances NG with SIGMA Animations, Dismembering Framework and more, Skyrim’s new refined combat will follow the same design philosophy as our visuals - to improve upon the “meat and bones” of the game, but not re-inventing the wheel.
+
+"Muh Immershun". Although a cliche word these days, immersion is key in any list. In Wanderer's Way, your reputation is rooted in your race but ultimately defined by your actions. Overhauled and expanded quests offer varied paths forward, with outcomes that change based on how you approach them. Your choices go beyond reputation and quest outcomes, they reshape the world around you as well. The world is meant to feel alive and responsive. I don't want to spoil too much, so you'll have to experience this part of the game for yourself. 😉 
+
+This is the heart of Wanderer's Way. If it sounds like your bottle of skooma, read on and give it a try.
+
+## Requirements
 - Skyrim version 1.6.1170 (latest Steam update).
 - Skyrim AE with all Anniversary Edition content (Paid Creation Content).
 
