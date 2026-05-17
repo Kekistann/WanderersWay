@@ -11,9 +11,9 @@ Visuals are carried by Community Shaders and it's official add-ons. Lux CS and N
 
 Combat is crucial for many people. Thanks to creations like Blade & Blunt, Stances NG with SIGMA Animations, Dismembering Framework and more, Skyrim’s new refined combat will follow the same design philosophy as our visuals - to improve upon the “meat and bones” of the game, but not re-inventing the wheel.
 
-"Muh Immershun". Although a cliche word these days, immersion is key in any list. In Wanderer's Way, your reputation is rooted in your race but ultimately defined by your actions. Overhauled and expanded quests offer varied paths forward, with outcomes that change based on how you approach them. Your choices go beyond reputation and quest outcomes, they reshape the world around you as well. The world is meant to feel alive and responsive. I don't want to spoil too much, so you'll have to experience this part of the game for yourself. 😉 
+"Muh Immershun". Although a cliche word these days, immersion is key in any list. In Wanderer's Way, your reputation is rooted in your race but ultimately defined by your actions. Overhauled and expanded quests offer varied paths forward, with outcomes that change based on how you approach them. Your choices go beyond reputation and quest outcomes, they reshape the world around you as well. The world is meant to feel alive and responsive. You'll find new side activites to occupy yourself with, survival systems that feel rewarding rather than cumbersome, and dozens of new quests that fit seamlessly into the world of Skyrim. I don't want to spoil too much, so you'll have to experience this part of the game for yourself. 😉 
 
-Wanderer's Way is meant to be played with Survival Mode on, but you can turn it off in `Main Menu` -> `Settings` -> `Gameplay` if you so choose. I recommend giving it a try if you haven't before as it's also been overhauled.
+Wanderer's Way is meant to be played with Survival Mode on, but you can turn it off in `Main Menu` -> `Settings` -> `Gameplay` if you so choose. I recommend giving it a try if you haven't before as its also been overhauled.
 
 This is the heart of Wanderer's Way. If it sounds like your bottle of skooma, read on and give it a try.
 
@@ -107,6 +107,7 @@ If you have not bought the Anniversary Edition DLC before, please do so. The lis
 - After character creation, a notification will pop-up stating Wanderer's Way is configuring. Stand still and wait for configuration to complete. Upon completion, you will receive a second notification stating you're good to go.
 - Wanderer's Way is pre-configured on Adept difficulty and intended to be played this way. Increasing or decreasing the difficulty slider will heavily alter your experience.
 - After character creation and game configuration is finished, follow the quest markers to gear up/choose your background. Once finished, interact with the Shrine of Akatosh to choose your Game Start. Lastly, exit the room and enjoy your time playing Wanderer's Way!
+- Note: All of Wanderer's Way setting are pre-configured. Many of the games mechanics will be introduced naturally, some, through Skyrim's vanilla "Tutorial" message boxes. Don't skip them! For help with Hotkeys, press `F11` while in game. 
 
 ## Uninstalling
 - Delete the Wanderer's Way folder.
