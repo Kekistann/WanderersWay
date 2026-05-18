@@ -24,8 +24,8 @@ This is the heart of Wanderer's Way. If it sounds like your bottle of skooma, re
 ## System Requirements
 - **OS**: Windows 10 or 11 (no LTSC or modified versions; Linux not supported).
 - **Storage**: SSD required.
-- **Download Size**: ~x.
-- **Install Size**: ~x.
+- **Download Size**: 105GB.
+- **Install Size**: 137GB.
 
 | Component | Minimum (1080p Native 60FPS)  | Recommended (1440p Native 60FPS) |
 |-----------|-------------------------------|----------------------------------|
