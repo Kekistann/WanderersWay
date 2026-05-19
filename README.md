@@ -122,3 +122,4 @@ If you have not bought the Anniversary Edition DLC before, please do so. The lis
 
 - **Post-Installation Issues**:
   - Form 43/DLL errors? Reinstall with “Overwrite Installation” checked in Wabbajack.
+  - If you come across the "Cannot launch program" error when trying to launch the list: Restart MO2, click on the Dropdown Menu next to the "Run" button in the top right corner and select "SKSE" for the time being. I'll have to push an update as it seems there's an issue with the renamed SKSE loader.
