@@ -11,3 +11,4 @@
 - Updated C.O.I.N: Minor bug fixes and improvements.
 - Updated Dampened Spirits Plus Plus: Minor Bug Fix
 - Updated IDE Stormcloaks: Crash related fix
+- Added xEdit to be shipped with the list.
