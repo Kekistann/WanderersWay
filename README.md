@@ -2,7 +2,7 @@
 A Community Shaders based Skyrim modlist focused on Exploration, Roleplay, Player Choice and a Dynamic World.
 ![Description](Resources/ww_title.png)
 
-**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/163526) | [Changelog](https://github.com/Kekistann/WanderersWay/blob/main/changelog.md) | [Load Order](https://loadorderlibrary.com/lists/wanderer-s-way-2) | [Support](https://discord.gg/TaZ33g6RMJ)
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/163526) | [Changelog](https://github.com/Kekistann/WanderersWay/blob/main/changelog.md) | [Load Order](https://loadorderlibrary.com/lists/wanderer-s-way-3) | [Support](https://discord.gg/TaZ33g6RMJ)
 
 
 Wanderer's Way can be described as "Skyrim with a fresh coat of paint", featuring over 1700 mods that have been curated and hand patched to work together. My intentions are to make sure that you, the player, can return to Tamriel and have it feel familiar. I’ve done my best not to stray far from the vibe that Bethesda gave us in 2011. Keeping this in mind, many of us crave that first love of being lost in exploration. Whether you’ve played 2000 hours of Skyrim or 20, Wanderer’s Way should feel like a familiar, fresh, dynamic world with its overhauled visuals and player driven, ever-changing environments.
